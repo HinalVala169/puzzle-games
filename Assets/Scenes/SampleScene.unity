@@ -516,8 +516,9 @@ MonoBehaviour:
   - {fileID: 4767864229596328653}
   - {fileID: 4767864228485317073}
   - {fileID: 4767864229511738451}
+  colorCells: []
   gridCellSprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  imagePrefab: {fileID: 7100533172334880227, guid: 0df86ea44127e4066b71cfb90d8d575b, type: 3}
+  imagePrefab: {fileID: 7100533172334880227, guid: 8cce6b36507cd4b04ac172b535dd27c1, type: 3}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0

@@ -33,7 +33,6 @@ public class GenerateColorCells : MonoBehaviour
             gridCell.sprite = gridCellSprite;
             int colIndex = Random.Range(0, colors.Count);
             gridCell.color = colors[colIndex];
-            gridCell.rectTransform.sizeDelta = new Vector2(200, 200);
             colorCells.Add(gridCell);
         }
     }
